@@ -20,6 +20,8 @@ social:
       link: "https://linkedin.com/in/manishhag"
     - icon: fa-github
       link: "https://github.com/spacevstab"
+    - icon: fa-instagram
+      link: "https://instagram.com/lost_my_keys_"
 
 share:
   twitter_username: github.io
@@ -27,6 +29,8 @@ share:
 urls:
     - text: About Me
       url: /about/
+    - text: CV
+      url: https://drive.google.com/file/d/1XooG1T3q-As9soaZ8R_3SRmzbmy1_7WN/view?usp=sharing
 
 url: "https://spacevstab.github.io"
 baseurl: ""
