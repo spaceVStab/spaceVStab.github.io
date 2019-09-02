@@ -32,7 +32,7 @@ urls:
     - text: About Me
       url: /about/
     - text: CV
-      url: https://drive.google.com/file/d/1XooG1T3q-As9soaZ8R_3SRmzbmy1_7WN/view?usp=sharing
+      url: https://drive.google.com/open?id=1DLGnzG0v8VOqiLySksOBJEw-1M6yTXry
 
 url: "https://spacevstab.github.io"
 baseurl: ""
