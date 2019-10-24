@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a fourth year undergraduate at IIT Kharagpur.
+I am a final year undergraduate at IIT Kharagpur.
 
 My major is in Industrial and Systems Engineering and minor in Computer Science Engineering.
 
